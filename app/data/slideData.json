@@ -1,0 +1,173 @@
+{
+  "Cards": [
+    {
+      "id": 1,
+      "handle": "exclusives",
+      "heading": "Exclusive",
+      "subheading": "Discover Cooledtured's Rare Collectibles",
+      "description": "Limited Quantities so don't miss out. \n Shop our Exclusive line before it's gone!",
+      "image": "/images/CarouselCards/card1/productImage/Exclusive.png",
+      "bgImageLayers": [
+        {
+          "url": "/images/CarouselCards/card1/background.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"cover"
+          },
+          "speed":0
+        },
+        {
+          "url": "/images/CarouselCards/card1/right-dots.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"cover"
+          },
+          "speed":5
+        },
+        {
+          "url": "/images/CarouselCards/card1/top-cube.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"contain"
+          },
+          "speed":15
+        },
+        {
+          "url": "/images/CarouselCards/card1/bl-cube.svg",
+          "style": {
+            "scale": 1.0,
+            "objectFit":"contain"
+          },
+          "speed":30
+        },
+        {
+          "url": "/images/CarouselCards/card1/br-cube.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"contain"
+          },
+          "speed":50
+        }
+        
+      ],
+      "headingStyle": {
+        "color" : "#ffea83"},
+      "subheadingStyle": {
+        "color" : "#004aad"},
+      "descriptionStyle": {
+        "color" : "#000000"}
+    },
+    {
+      "id": 2,
+      "handle": "pre-orders",
+      "heading": "Pre-order",
+      "subheading": "Skip the Wait and Reserve Now!",
+      "description": "Don't miss out! Guarantee your\nmust-have toy with Cooledtured!",
+      "image": "/images/CarouselCards/card2/productImage/Pre-Order.png",
+      "bgImageLayers": [
+        {
+          "url": "/images/CarouselCards/card2/background.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"cover"
+          },
+          "speed":0
+        },
+        {
+          "url": "/images/CarouselCards/card2/shop.svg",
+          "style": {
+            "scale": 1.0,
+            "objectFit":"contain"
+          },
+          "speed":5
+        },
+        {
+          "url": "/images/CarouselCards/card2/b-line.svg",
+          "style": {
+            "scale": 1.01,
+            "objectFit":"contain"
+          },
+          "speed": 20
+        },
+        {
+          "url": "/images/CarouselCards/card2/tr-line.svg",
+          "style": {
+            "scale": 1,
+            "objectFit":"contain"
+          },
+          "speed":40
+        }
+      ],
+      "headingStyle": {
+        "color" : "#ffea83"},
+      "subheadingStyle": {
+        "color" : "#ffea83"},
+      "descriptionStyle": {
+        "color" : "#4BCF01"}
+    },
+    {
+      "id": 3,
+      "handle": "in-stock",
+      "heading": "In Stock",
+      "subheading": "Our ready to ship collection.",
+      "description": "From Classics to New Discoveries.\nFind the Perfect Gift in stock Today!",
+      "image": "/images/CarouselCards/card3/productImage/In_Stock.png",
+      "bgImageLayers": [
+        {
+          "url": "/images/CarouselCards/card3/background.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"cover"
+          },
+          "speed":0
+        },
+        {
+          "url": "/images/CarouselCards/card3/tl-lg-arrow.svg",
+          "style": {
+            "scale":1.03,
+            "objectFit":"contain"
+          },
+          "speed": 15
+        },
+        {
+          "url": "/images/CarouselCards/card3/br-lg-arrow.svg",
+          "style": {
+            "scale":1.03,
+            "objectFit":"contain"
+          },
+          "speed": 5
+        },
+        {
+          "url": "/images/CarouselCards/card3/tr-sm-arrow.svg",
+          "style": {
+            "scale":1.03,
+            "objectFit":"contain"
+          },
+          "speed": 10
+        },
+        {
+          "url": "/images/CarouselCards/card3/bl-sm-arrow.svg",
+          "style": {
+            "scale":1.03,
+            "objectFit":"contain"
+          },
+          "speed": 20
+        },
+        {
+          "url": "/images/CarouselCards/card3/mid-sm-arrow.svg",
+          "style": {
+            "scale":1.03,
+            "objectFit":"contain"
+          },
+          "speed": 40
+        }
+      ],
+      "headingStyle": {
+        "color" : "#009688"},
+      "subheadingStyle": {
+        "color" : "#009688"},
+      "descriptionStyle": {
+        "color" : "#000000"}
+    }
+  ]
+}

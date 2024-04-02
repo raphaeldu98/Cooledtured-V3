@@ -1,0 +1,18 @@
+[
+    {
+      "message":
+        "Backorders and Delayed Order? ",
+      "link": "pages/delayed-preorder",
+      "linkText": "Please check our wave list."
+    },
+    {
+      "message": "Never miss out on new products!",
+      "link": "/collections/pre-orders",
+      "linkText": "Learn more"
+    },
+    {
+      "message": "Discover the latest trends!",
+      "link": "/blogs/news",
+      "linkText": "Read our blog"
+    }
+  ]

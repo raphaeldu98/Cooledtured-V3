@@ -1,0 +1,100 @@
+{
+"brands" :[
+    {
+      "id": 1,
+      "handle": "pre-orders",
+      "name": "Pre-Orders",
+      "logo": "/images/Logos/All_Logo.png"
+    },
+    {
+      "id": 2,
+      "handle": "brand-funko",
+      "name": "Funko",
+      "logo": "/images/Logos/funko_logo.png"
+    },
+    {
+      "id": 3,
+      "handle": "brand-banpresto",
+      "name": "Banpresto",
+      "logo": "/images/Logos/banpresto_logo.png"
+    },
+    {
+      "id": 4,
+      "handle": "brand-good-smile-company",
+      "name": "Good Smile Company",
+      "logo": "images/Logos/goodsmile_logo.png"
+    },
+    {
+      "id": 5,
+      "handle": "brand-bandai",
+      "name": "Bandai",
+      "logo": "/images/Logos/bandai_logo.png"
+    },
+    {
+      "id": 6,
+      "handle": "brand-sega",
+      "name": "Sega",
+      "logo": "/images/Logos/sega_logo.png"
+    },
+    {
+      "id": 7,
+      "handle": "brand-furyu",
+      "name": "Furyu",
+      "logo": "/images/Logos/furyu_logo.png"
+    },
+    {
+      "id": 8,
+      "handle": "brand-megahouse",
+      "name": "Megahouse",
+      "logo": "/images/Logos/megahouse_logo.png"
+    },
+    {
+      "id": 9,
+      "handle": "brand-tamashii-nations",
+      "name": "Tamashii Nations",
+      "logo": "/images/Logos/tamashii_logo.png"
+    },
+    {
+      "id": 10,
+      "handle": "brand-kotobukiya",
+      "name": "Kotobukiya",
+      "logo": "/images/Logos/kotobukiya_logo.png"
+    },
+    {
+      "id": 11,
+      "handle": "fandom-square-enix",
+      "name": "Square Enix",
+      "logo": "/images/Logos/square_enix_logo.png"
+    },
+    {
+      "id": 12,
+      "handle": "brand-aniplex",
+      "name": "Aniplex",
+      "logo": "/images/Logos/aniplex_logo.png"
+    },
+    {
+      "id": 13,
+      "handle": "brand-taito",
+      "name": "Taito",
+      "logo": "/images/Logos/taito_logo.png"
+    },
+    {
+      "id": 14,
+      "handle": "brand-mcfarlane-toys",
+      "name": "Mcfarlane Toys",
+      "logo": "/images/Logos/mcfarlane_logo.png"
+    },
+    {
+      "id": 15,
+      "handle": "brand-mattel",
+      "name": "Mattel",
+      "logo": "/images/Logos/mattel_logo.png"
+    },
+    {
+      "id": 16,
+      "handle": "brand-hasbro",
+      "name": "Hasbro",
+      "logo": "/images/Logos/hasbro_logo.png"
+    }
+  ]
+}

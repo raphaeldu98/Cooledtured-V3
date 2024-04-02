@@ -1,0 +1,40 @@
+{
+  "handBanner": [
+    {
+      "ImageLayers": [
+        {
+         "id":1,
+          "url": "/images/Community/handBanner/backgroundColor.svg",
+          "style": {
+            "scale": 1.0,
+            "objectPosition": "center"
+          }
+        },
+        {
+         "id":2,
+         "url": "/images/Community/handBanner/grid.svg",
+          "style": {
+            "scale": 1.0,
+            "objectPosition": "center"
+          }
+        },
+        {
+         "id":3,
+         "url": "/images/Community/handBanner/hand.svg",
+          "style": {
+            "scale": 1.0,
+            "objectPosition": "center"
+          }
+        },
+        {
+         "id":4,
+         "url": "/images/Community/handBanner/words.svg",
+          "style": {
+            "scale": 1.0,
+            "objectPosition": "center"
+          }
+        }
+      ]
+    }
+  ]
+}

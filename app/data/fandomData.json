@@ -1,0 +1,53 @@
+{
+    "brands" :[
+        {
+          "id": 1,
+          "handle": "fandom-demon-slayer",
+          "name": "Demon Slayer",
+          "logo": "/images/Logos/Fandoms/DemonSlayer.png"
+        },
+        {
+          "id": 2,
+          "handle": "fandom-disney",
+          "name": "Disney",
+          "logo": "/images/Logos/Fandoms/Disney.png"
+        },
+        {
+          "id": 3,
+          "handle": "fandom-dragon-ball",
+          "name": "Dragonball",
+          "logo": "/images/Logos/Fandoms/Dragonball.png"
+        },
+        {
+          "id": 4,
+          "handle": "fandom-jujutsu-kaisen",
+          "name": "Jujutsu Kaisen",
+          "logo": "images/Logos/Fandoms/JujutsuKaisen.png"
+        },
+        {
+          "id": 5,
+          "handle": "fandom-marvel",
+          "name": "Marvel",
+          "logo": "/images/Logos/Fandoms/Marvel.png"
+        },
+        {
+          "id": 6,
+          "handle": "fandom-naruto",
+          "name": "Naruto",
+          "logo": "/images/Logos/Fandoms/Naruto.png"
+        },
+        {
+          "id": 7,
+          "handle": "fandom-one-piece",
+          "name": "One Piece",
+          "logo": "/images/Logos/Fandoms/OnePiece.png"
+        },
+        {
+          "id": 8,
+          "handle": "fandom-star-wars",
+          "name": "Star Wars",
+          "logo": "/images/Logos/Fandoms/StarWars.png"
+        }
+      ]
+    }
+    

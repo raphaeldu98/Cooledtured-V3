@@ -1,0 +1,112 @@
+{
+  "discordBanner": [
+    {
+      "id": 1,
+      "subheading": "Unlock endless conversations in gaming, anime, and pop culture on cooledtured!",
+      "ImageLayers": [
+        {
+          "url": "/images/HomePage/DiscordBanner/background.svg",
+          "style": {
+            "scale": 1,
+            "objectFit":"cover",
+            "objectPosition": "center",
+            "offsetX": "0%",
+            "offsetY": "0%"
+          },
+          "speed": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "url": "/images/HomePage/DiscordBanner/tl-wave-light.svg",
+          "style": {
+            "scale": 1.2,
+            "objectFit":"contain",
+            "objectPosition": "center",
+            "offsetX": "-22%",
+            "offsetY": "-25%"
+          },
+          "speed": {
+            "x": 5,
+            "y":30
+          }
+        },
+        {
+          "url": "/images/HomePage/DiscordBanner/br-wave-light.svg",
+          "style": {
+            "scale": 1.1,
+            "objectFit":"contain",
+            "objectPosition": "center",
+            "offsetX": "1%",
+            "offsetY": "10%"
+          },
+          "speed": {
+            "x": 0,
+            "y":50
+          }
+        },
+        {
+          "url": "/images/HomePage/DiscordBanner/characters.svg",
+          "style": {
+            "scale": 1,
+            "objectFit":"contain",
+            "objectPosition": "center",
+            "offsetX": "0%",
+            "offsetY": "-1%"
+          },
+          "speed": {
+            "x": 0,
+            "y":60
+          }
+        },
+        {
+          "url": "/images/HomePage/DiscordBanner/tl-wave-dark.svg",
+          "style": {
+            "scale": 1.2,
+            "objectFit":"contain",
+            "objectPosition": "center",
+            "offsetX": "-15%",
+            "offsetY": "-10%"
+          },
+          "speed": {
+            "x": -15,
+            "y":15
+          }
+        },
+        {
+          "url": "/images/HomePage/DiscordBanner/br-wave-dark.svg",
+          "style": {
+            "scale": 1.0,
+            "objectFit":"contain",
+            "objectPosition": "center",
+            "offsetX": "0%",
+            "offsetY": "30%"
+          },
+          "speed": {
+            "x": 5,
+            "y":20
+          }
+        },
+        {
+          "url": "/images/HomePage/DiscordBanner/discord-cooledtured.svg",
+          "style": {
+            "scale": 1,
+            "objectFit":"contain",
+            "objectPosition": "center",
+            "offsetX": "0%",
+            "offsetY": "-25%"
+          },
+          "speed": {
+            "x": 0,
+            "y":30
+          }
+        }
+        
+        
+      ],
+      "subheadingStyle": {
+        "color" : "#fff"}
+    }
+  ]
+}
